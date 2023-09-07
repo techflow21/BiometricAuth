@@ -1,5 +1,5 @@
 # Biometric Authentication App
-This web app was built with Angular version 16
+This web app was built with Angular version 16. The Biometric Authentication capability was made possible with the help of Passage Authentication.
 
 ## Development server
 
